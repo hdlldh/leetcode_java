@@ -1,1 +1,7 @@
-/*.idea
+*
+!.gitignore
+!*.java
+!*.md
+!*/
+.DS_Store
+.idea/
